@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description>Create and impersonate user with first name 'Test' and last name 'User'</description>
+        <display_name>Create a User</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>1</order>
+        <snapshot/>
+        <step_config display_value="Create a User">d9bc5f21ff6033008d3f5d9ad53bf12d</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-08 15:33:41</sys_created_on>
+        <sys_id>ac53afe1db0010106b29f26b68961995</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create a User</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_step_ac53afe1db0010106b29f26b68961995</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-08 15:33:41</sys_updated_on>
+        <table/>
+        <test display_value="When needed - Past">a0a49467dba100106b29f26b6896195e</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=ac53afe1db0010106b29f26b68961995"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>ac53afe1db0010106b29f26b68961995</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-08 15:33:41</sys_created_on>
+        <sys_id>2c53afe1db0010106b29f26b68961997</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-08 15:33:41</sys_updated_on>
+        <value/>
+        <variable display_value="">b27b2b29ff6033008d3f5d9ad53bf164</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>ac53afe1db0010106b29f26b68961995</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-08 15:33:41</sys_created_on>
+        <sys_id>6853afe1db0010106b29f26b68961997</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-08 15:33:41</sys_updated_on>
+        <value/>
+        <variable display_value="">8c07aba5ff6033008d3f5d9ad53bf13b</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>ac53afe1db0010106b29f26b68961995</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-08 15:33:41</sys_created_on>
+        <sys_id>a053afe1db0010106b29f26b68961998</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-08 15:33:41</sys_updated_on>
+        <value/>
+        <variable display_value="">1985e0ceff2433008d3f5d9ad53bf1ba</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>ac53afe1db0010106b29f26b68961995</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-08 15:33:41</sys_created_on>
+        <sys_id>a453afe1db0010106b29f26b68961997</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-08 15:33:41</sys_updated_on>
+        <value>1</value>
+        <variable display_value="">98c44875ffa033008d3f5d9ad53bf1fa</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>ac53afe1db0010106b29f26b68961995</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-08 15:33:41</sys_created_on>
+        <sys_id>ec53afe1db0010106b29f26b68961997</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-08 15:33:41</sys_updated_on>
+        <value/>
+        <variable display_value="">6f69fc4aff6433008d3f5d9ad53bf18c</variable>
+    </sys_variable_value>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>41e283a9db7beb404d2bac44d49619d0</instance_id>
+        <instance_name>dev73288</instance_name>
+        <name>sys_atf_step_ac53afe1db0010106b29f26b68961995</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Create and impersonate user with first name 'Test' and last name 'User'</description><display_name>Create a User</display_name><inputs/><mugshots_cache_json/><notes/><order>1</order><snapshot/><step_config display_value="Create a User">d9bc5f21ff6033008d3f5d9ad53bf12d</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-08 15:33:41</sys_created_on><sys_id>ac53afe1db0010106b29f26b68961995</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create a User</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_atf_step_ac53afe1db0010106b29f26b68961995</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-08 15:33:41</sys_updated_on><table/><test display_value="When needed - Past">a0a49467dba100106b29f26b6896195e</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=ac53afe1db0010106b29f26b68961995"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>ac53afe1db0010106b29f26b68961995</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-08 15:33:41</sys_created_on><sys_id>2c53afe1db0010106b29f26b68961997</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-08 15:33:41</sys_updated_on><value/><variable display_value="">b27b2b29ff6033008d3f5d9ad53bf164</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>ac53afe1db0010106b29f26b68961995</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-08 15:33:41</sys_created_on><sys_id>6853afe1db0010106b29f26b68961997</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-08 15:33:41</sys_updated_on><value/><variable display_value="">8c07aba5ff6033008d3f5d9ad53bf13b</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>ac53afe1db0010106b29f26b68961995</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-08 15:33:41</sys_created_on><sys_id>a053afe1db0010106b29f26b68961998</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-08 15:33:41</sys_updated_on><value/><variable display_value="">1985e0ceff2433008d3f5d9ad53bf1ba</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>ac53afe1db0010106b29f26b68961995</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-08 15:33:41</sys_created_on><sys_id>a453afe1db0010106b29f26b68961997</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-08 15:33:41</sys_updated_on><value>1</value><variable display_value="">98c44875ffa033008d3f5d9ad53bf1fa</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>ac53afe1db0010106b29f26b68961995</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-08 15:33:41</sys_created_on><sys_id>ec53afe1db0010106b29f26b68961997</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-08 15:33:41</sys_updated_on><value/><variable display_value="">6f69fc4aff6433008d3f5d9ad53bf18c</variable></sys_variable_value></record_update>]]></payload>
+        <payload_hash>-1736314494</payload_hash>
+        <record_name>Create a User</record_name>
+        <reverted_from/>
+        <source>2fd5fb51db0410106b29f26b68961905</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-08 15:33:41</sys_created_on>
+        <sys_id>2853afe1db0010106b29f26b6896199a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1715a6cf1680000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-08 15:33:41</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>6053afe153001010181683247adced9a</update_guid>
+        <update_guid_history>6053afe153001010181683247adced9a:-1736314494</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-08 15:34:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>261a7119a0b3498991d26ee48d1fa9c9</sys_id>
+        <sys_metadata>ac53afe1db0010106b29f26b68961995</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create a User</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_atf_step_ac53afe1db0010106b29f26b68961995</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_ac53afe1db0010106b29f26b68961995">2853afe1db0010106b29f26b6896199a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-08 15:34:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

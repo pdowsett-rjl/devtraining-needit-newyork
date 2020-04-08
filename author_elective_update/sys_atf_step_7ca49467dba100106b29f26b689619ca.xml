@@ -28,8 +28,8 @@
         <timeout/>
         <warning_message/>
     </sys_atf_step>
-    <sys_variable_value action="delete_multiple" query="document_key=7ca49467dba100106b29f26b689619ca"/>
-    <sys_variable_value action="INSERT_OR_UPDATE">
+    <sys_variable_value action="DELETE" query="document_key=7ca49467dba100106b29f26b689619ca"/>
+    <sys_variable_value action="DELETE">
         <document>sys_atf_step</document>
         <document_key>7ca49467dba100106b29f26b689619ca</document_key>
         <order>100</order>
@@ -43,8 +43,8 @@
         <value>Test of When needed with a date in the past should fail. Record inserted by test: {{step['24a49467dba100106b29f26b68961968'].record_id}}</value>
         <variable display_value="">523c79985f30220012b44adb7f46663a</variable>
     </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="id=7ca49467dba100106b29f26b689619ca"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
+    <sys_element_mapping action="DELETE" query="id=7ca49467dba100106b29f26b689619ca"/>
+    <sys_element_mapping action="DELETE">
         <field>log</field>
         <id>7ca49467dba100106b29f26b689619ca</id>
         <sys_created_by>admin</sys_created_by>
